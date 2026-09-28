@@ -50,14 +50,13 @@ This project integrates two primary technical disciplines:
 
 ---
 
-## 🚀 Getting Started
+---
 
-```bash
-# Clone repository
-git clone [https://github.com/your-username/bank-churn-or-ml.git](https://github.com/your-username/bank-churn-or-ml.git)
+## 🚀 Run in Google Colab
 
-# Navigate into directory
-cd bank-churn-or-ml
+Click the badge below to open and execute the complete interactive notebook directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mez-MohamedRafik/Customer-Churn/blob/main/notebooks/Customer_churn_RFC_pred.ipynb)
 
 # Install dependencies
 pip install -r requirements.txt
