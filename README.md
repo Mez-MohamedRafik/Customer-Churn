@@ -56,7 +56,7 @@ This project integrates two primary technical disciplines:
 
 Click the badge below to open and execute the complete interactive notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mez-MohamedRafik/Customer-Churn/blob/main/notebooks/Customer_churn_RFC_pred.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mez-MohamedRafik/Customer-Churn/blob/main/Customer_churn_RFC_pred.ipynb)
 
 # Install dependencies
 pip install -r requirements.txt
